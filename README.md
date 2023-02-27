@@ -1,6 +1,6 @@
 # Mechanism of H2 metabolism wihtin mixed cultures.
 
-This depository provide relevant raw data, scripts for replicating the analyses and figure making in the paper. 
+This depository provide relevant raw data, scripts for data analyses in the paper. 
 
 System information of which the workflow carried out is provided as the following:
 
